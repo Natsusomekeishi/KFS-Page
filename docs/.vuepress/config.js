@@ -29,7 +29,7 @@ module.exports = {
                     ['/JoinFailed', '无法进入或游戏内影响体验的排查'],
                     ['/AuditProcess', '入服审核流程'],
                     ['/Other', '其他内容'],
-                    ['/About', '关于'],
+                    ['/Evaluation', '服务器评价'],
                 ]
             },
         }
