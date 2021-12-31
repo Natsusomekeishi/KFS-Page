@@ -21,6 +21,7 @@ module.exports = {
                     { text: '加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
+                    ['/', '首页'],
                     ['/AuditDescription', '审核说明'],
                     ['/ServerHistory', '服务器历史'],
                     ['/ServerRules', '服务器现行规则'],
