@@ -54,7 +54,7 @@ module.exports = {
     plugins: ['autometa', autometa_options],
     plugins: {
         'sitemap': {
-            hostname: 'https://mckfs.com',
+            hostname: 'https://hello.mckfs.com',
             exclude: ["/404.html"]
         },
     }
