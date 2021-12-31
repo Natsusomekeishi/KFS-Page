@@ -1,0 +1,15 @@
+{
+  "name": "KFS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Natsusomekeishi/KFS.git",
+  "author": "Natsusomekeishi",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.5"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
