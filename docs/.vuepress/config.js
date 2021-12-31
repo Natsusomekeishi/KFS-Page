@@ -28,8 +28,8 @@ module.exports = {
                     ['/JoinServer', '加入服务器的方法'],
                     ['/JoinFailed', '错误帮助'],
                     ['/AuditProcess', '入服审核流程'],
-                    ['/Other', '其他内容'],
                     ['/Evaluation', '服务器评价'],
+                    ['/Other', '其他内容'],
                 ]
             },
         }
