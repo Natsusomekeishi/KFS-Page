@@ -21,15 +21,14 @@ module.exports = {
                     { text: '加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
-                    {
-                        title: '如何使用',
-                        collapsable: false,
-                        children: [
-                            ['How-to-ues/Start', '部署'],
-                            ['How-to-ues/configyml-template', 'config.yml模板']
-                        ],
-                    },
-                    ['/About', '关于这个项目']
+                    ['/AuditDescription', '审核说明']
+                    ['/ServerHistory', '服务器历史']
+                    ['/ServerRules', '服务器现行规则']
+                    ['/JoinServer', '加入服务器的方法']
+                    ['/JoinFailed', '无法进入或游戏内影响体验的排查']
+                    ['/AuditProcess', '入服审核流程']
+                    ['/Other', '其他内容']
+                    ['/About', '关于']
                 ]
             },
         }
@@ -54,7 +53,7 @@ module.exports = {
     plugins: ['autometa', autometa_options],
     plugins: {
         'sitemap': {
-            hostname: 'https://shionbot.xyz',
+            hostname: 'hhttps://mckfs.com',
             exclude: ["/404.html"]
         },
     }
