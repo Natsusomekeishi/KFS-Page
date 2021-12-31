@@ -26,7 +26,7 @@ module.exports = {
                     ['/ServerHistory', '服务器历史'],
                     ['/ServerRules', '服务器现行规则'],
                     ['/JoinServer', '加入服务器的方法'],
-                    ['/JoinFailed', '无法进入或游戏内影响体验的排查'],
+                    ['/JoinFailed', '错误帮助'],
                     ['/AuditProcess', '入服审核流程'],
                     ['/Other', '其他内容'],
                     ['/Evaluation', '服务器评价'],
