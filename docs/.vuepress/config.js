@@ -2,7 +2,7 @@ const autometa_options = {
     site: {
         name: 'KFS 服务器',
     },
-    canonical_base: 'https://mckfs.com',
+    canonical_base: 'https://hello.mckfs.com',
 };
 
 module.exports = {
