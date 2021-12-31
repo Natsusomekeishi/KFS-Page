@@ -11,5 +11,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "markdown-it-task-checkbox": "^1.0.6"
   }
 }
