@@ -10,4 +10,4 @@
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
 # 声明
-该文档“必看纲要”属于服务器服规类及说明类文案，由 KFS 服主 Keishi 编写。Keishi 为服务器唯一声明人，同时，有且只有 Keishi 一人拥有该文案全部解释权。
+**该文档“必看纲要”属于服务器服规类及说明类文案，由 KFS 服主 Keishi 编写。Keishi 为服务器唯一声明人，同时，有且只有 Keishi 一人拥有该文案全部解释权。**
