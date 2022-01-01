@@ -1,4 +1,4 @@
-# 其他教学及说明
+# <div align="center"><font color=#FD366D>其他教学</font></div>
 ::: warning 注意
 服务器所有操作原则上都不需要加速器！
 :::
