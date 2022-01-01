@@ -1,4 +1,4 @@
-# 欢迎加入KFS服务器
+# <div align="center">欢迎加入KFS服务器</div>
 >该纲要更新日期 **2022.1.1** ，为 **V3.0.23** 版本。
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
