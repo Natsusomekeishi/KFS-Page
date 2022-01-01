@@ -21,13 +21,14 @@ module.exports = {
                     { text: '加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
-                    ['/', '首页'],
-                    ['/AuditDescription', '审核说明'],
+                    ['/', '前言'],
                     ['/ServerHistory', '服务器历史'],
+                    ['/AuditDescription', '审核说明'],
+                    ['/AuditProcess', '入服审核流程'],
                     ['/ServerRules', '服务器现行规则'],
                     ['/JoinServer', '加入服务器的方法'],
-                    ['/JoinFailed', '错误帮助'],
-                    ['/AuditProcess', '入服审核流程'],
+                    ['/JoinFailed', '入服错误排查'],
+                    ['/Otherhelp', '其他教学'],
                     ['/Evaluation', '服务器评价'],
                     ['/Other', '其他内容'],
                 ]
