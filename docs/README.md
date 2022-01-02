@@ -13,3 +13,16 @@
 请将自己的群名片更改为游戏中的玩家代号，提倡永远不要更改！
 
 **本服务器立志打造最 和谐、长久、稳定 的服务器！**
+
+<div id="ServerRunningTime"></div>
+
+<script>
+var time=Date.parse(new Date());
+var lasttime=Date.parse("2020-7-23");
+var day=parseInt((time-lasttime)/(1000*60*60*24));
+
+console.log(day);
+window.onload = function() {
+    document.getElementById("ServerRunningTime").innerHTML = "服务器已经运行了"+day+"天";
+}
+</script>
