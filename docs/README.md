@@ -17,12 +17,5 @@
 <div id="ServerRunningTime"></div>
 
 <script>
-var time=Date.parse(new Date());
-var lasttime=Date.parse("2020-7-23");
-var day=parseInt((time-lasttime)/(1000*60*60*24));
 
-console.log(day);
-window.onload = function() {
-    document.getElementById("ServerRunningTime").innerHTML = "服务器已经运行了"+day+"天";
-}
 </script>
