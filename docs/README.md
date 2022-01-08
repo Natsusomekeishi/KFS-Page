@@ -13,3 +13,5 @@
 请将自己的群名片更改为游戏中的玩家代号，提倡永远不要更改！
 
 **本服务器立志打造最 和谐、长久、稳定 的服务器！**
+
+<script type='text/javascript' src='https://ks.wjx.top/handler/jqemed.ashx?activity=QffWXaX&width=760&source=iframe'></script>
