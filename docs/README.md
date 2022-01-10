@@ -1,5 +1,5 @@
 # <div align="center"><font color=#FD366D>欢迎加入KFS服务器</font></div>
->该纲要更新日期 **2022.1.4** ，为 **V3.0.24** 版本。
+>该纲要更新日期 **2022.1.10** ，为 **V3.0.25** 版本。
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
