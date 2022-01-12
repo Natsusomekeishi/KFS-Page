@@ -15,18 +15,43 @@
 
 原服主 **Loin** ：
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2607418160&amp;s=640"></div>
->Happy to play together！
+>建立了KFS服务器的前身LP服务器，为KFS服务器日后的发展提供了长远的规划和意见，其所言所语，成为了此后发展的指导方针。鉴于其贡献巨大，获得“KFS服务器 终身成就奖”。
 
 现任服主 **Keishi** ：
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1291596219&amp;s=640"></div>
->大家要和睦相处！千万不要留浮空树啊啊啊啊！
+>现任KFS服务器服主，提供了服务器端管理、网站等相关建设、服务器日常运营维护、玩家审核、服务器规划、宣传片制作、服务器宣传、活动文案策划等。鉴于其贡献巨大，获得“KFS服务器 终身成就奖”。
 
-曾任第一任 **KFS 日梁雪国服** 副服主 **Delixiouser** ：
-<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=171669269&amp;s=640"></div>
->希望大家能够在游戏中好好相处！
+## 服务器元老奖
 
-现任第二任 **KFS 日梁雪国服** 副服主 **MelodicString66** ：
-<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3519262338&amp;s=640"></div>
->希望玩家在服务器积极活跃，让服务器变得更加完美。
+**猫儿** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3012452466&amp;s=640"></div>
 
-# <div align="center"><font color=#FD366D>知名人士评价</font></div>
+**君王** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1799646016&amp;s=640"></div>
+
+**小白** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2064577137&amp;s=640"></div>
+
+**Keishi** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1291596219&amp;s=640"></div>
+
+**Blane** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3505322893&amp;s=640"></div>
+
+**爱酱的工具人** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=419323611&amp;s=640"></div>
+
+**仰信** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3047894807&amp;s=640"></div>
+
+>以上玩家为KFS服务器网易版开服初期日活跃时长较长，且目前仍在服务器的成员。鉴于其贡献巨大，获得“KFS服务器 元老奖”
+
+## 服务器肝帝奖（2021年度）
+
+“梨桃柚服”时长榜第一 **小白** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2064577137&amp;s=640"></div>
+>柚服的红石担当，无论昼夜，总能看到他在线的身影。鉴于其2021年在服务器位列时长榜第一，获得“KFS服务器 肝帝奖”。
+
+“日梁雪国”时长榜第一 **CYQ917PLMC** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2751209348&amp;s=640"></div>
+>雪国的开荒功臣，服务器的肝帝，默默无闻的奉献者。鉴于其2021年在服务器位列时长榜第一，获得“KFS服务器 肝帝奖”。
