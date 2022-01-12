@@ -31,6 +31,7 @@ module.exports = {
                     ['/Otherhelp', '其他教学'],
                     ['/Evaluation', '服务器评价'],
                     ['/HonorRoll', '服务器名人榜'],
+                    ['/Position', '服务器任职一览'],
                     ['/Other', '其他内容'],
                 ]
             },
