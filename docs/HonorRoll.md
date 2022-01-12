@@ -52,8 +52,8 @@
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2064577137&amp;s=640"></div>
 >柚服的红石担当，无论昼夜，总能看到他在线的身影。鉴于其2021年在服务器位列时长榜第一，获得“KFS服务器 肝帝奖”。
 
-“日梁雪国”时长榜第一 **CYQ917PLMC** ：
-<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2751209348&amp;s=640"></div>
+“日梁雪国”时长榜第一 **Tian Xuan Ce** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3252004513&amp;s=640"></div>
 >雪国的开荒功臣，服务器的肝帝，默默无闻的奉献者。鉴于其2021年在服务器位列时长榜第一，获得“KFS服务器 肝帝奖”。
 
 ## 服务器特殊贡献奖
