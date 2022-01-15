@@ -4,4 +4,8 @@
 
 没关系！通过这个页面，你可以把自己想说的话，全都发送给服主！
 
+::: tip 提示
+如果页面显示不全，可以尝试缩小页面~
+:::
+
 <iframe src='https://www.wjx.top/vj/rgdbeid.aspx?width=760&source=iframe&s=t' width='799' height='800' frameborder='0' style='overflow:auto'></iframe>
