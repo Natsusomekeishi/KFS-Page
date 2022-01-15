@@ -33,6 +33,7 @@ module.exports = {
                     ['/HonorRoll', '服务器名人榜'],
                     ['/Position', '服务器任职一览'],
                     ['/Other', '其他内容'],
+                    ['/Email', '反馈信箱'],
                 ]
             },
         }
