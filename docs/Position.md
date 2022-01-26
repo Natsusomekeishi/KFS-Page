@@ -25,7 +25,7 @@
 * **Delixiouser**
 
 ## 运营组成员
-* 服主 **Keishi**
+* 服主/①号审核员 **Keishi**
 * 梨桃柚服 副服主 **小白**
 * 日梁雪国 副服主 **MelodicString66**
 * 客服妹 **orange**
