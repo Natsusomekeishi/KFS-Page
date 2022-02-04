@@ -29,6 +29,7 @@ module.exports = {
                     ['/JoinServer', '加入服务器的方法'],
                     ['/JoinFailed', '入服错误排查'],
                     ['/Otherhelp', '其他教学'],
+                    ['/Status', '服务器状态'],
                     ['/Evaluation', '服务器评价'],
                     ['/HonorRoll', '服务器名人榜'],
                     ['/Position', '服务器任职一览'],
