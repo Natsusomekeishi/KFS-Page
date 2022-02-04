@@ -5,10 +5,10 @@
 :::
 
 ## 梨桃柚服
-<div class="img"><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12492"></div>
+<div><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12492"></div>
 
 ## 日梁雪国服
-<div class="img"><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12494"></div>
+<div><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12494"></div>
 
 ## 创造服/审核服
-<div class="img"><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12500"></div>
+<div><img src="https://motdbe.blackbe.xyz/status_img?host=mckfs.com:12500"></div>
