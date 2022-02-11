@@ -61,3 +61,7 @@
 红石数电担当 **rs** ：
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3413308598&amp;s=640"></div>
 >柚服的红石数电担当，虽然经常摸鱼。鉴于其在服务器的特殊贡献，获得“KFS服务器 特殊贡献奖”。
+
+服务器宣传担当 **苦力怕纸** ：
+<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1691109702&amp;s=640"></div>
+>柚服的一位摸鱼成员，MC圈的一位优秀论坛站长，为KFS服务器的宣传作出了莫大的帮助。鉴于其在服务器的特殊贡献，获得“KFS服务器 特殊贡献奖”。
