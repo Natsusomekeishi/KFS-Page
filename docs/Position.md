@@ -28,8 +28,7 @@
 * ①号审核员 **Keishi**
 * 梨桃柚服 副服主 **小白**
 * 日梁雪国 副服主 **MelodicString66**
-* 客服妹 **orange**
 * ②号审核员 **Blane**
 * ③号审核员 **Le sort 0216**
 * ④号审核员 **Onside**
-* ⑤号审核员 **July sheng Ge**
+* ⑤号审核员 **苏苏**
