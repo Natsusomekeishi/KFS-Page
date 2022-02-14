@@ -1,5 +1,5 @@
 # <div align="center"><font color=#FD366D>欢迎加入KFS服务器</font></div>
->该纲要更新日期 **2022.2.13** ，为 **V3.0.45** 版本。
+>该纲要更新日期 **2022.2.14** ，为 **V3.0.46** 版本。
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
@@ -21,3 +21,5 @@
 * 服务器交流群：993260901
 * 本页面快速浏览链接：hello.mckfs.com
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
+
+<div align="center"><img src="/img/跨年服 (1).jpg"></div>
