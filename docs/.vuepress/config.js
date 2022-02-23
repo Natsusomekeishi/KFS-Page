@@ -18,7 +18,7 @@ module.exports = {
                 selectText: '语言',
                 label: '简体中文',
                 nav: [
-                    { text: '服规', link: 'https://hello.mckfs.com/ServerRules.html' },{ text: ' 游戏实时状态', link: 'https://hello.mckfs.com/Status.html' },{ text: ' 服务器状态', link: 'https://zt.mckfs.com' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
+                    { text: '服规', link: 'https://hello.mckfs.com/ServerRules.html' },{ text: ' 游戏实时状态', link: 'https://hello.mckfs.com/Status.html' },{ text: ' 服务器状态', link: 'https://zt.mckfs.com' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
                     ['/', '前言'],
