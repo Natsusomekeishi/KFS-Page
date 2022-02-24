@@ -13,7 +13,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
-        lastUpdated: '上次更新时间',
+        logo: '/favicon.ico',
         locales: {
             '/': {
                 selectText: '语言',
@@ -41,6 +41,7 @@ module.exports = {
             },
         }
     },
+
     locales: {
         '/': {
             lang: 'zh-CN',
