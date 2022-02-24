@@ -5,8 +5,6 @@ const autometa_options = {
     canonical_base: 'https://hello.mckfs.com',
 };
 
-const moment = require('moment');
-
 module.exports = {
     title: 'KFS 服务器',
     description: 'KFS服务器全称“KizunaAI Fans Server”，是一名绝佳的Vtuber的粉丝麦块服务器，建立于2020年7月23日。目前......',
@@ -79,3 +77,6 @@ module.exports = {
       }
     ]
 }
+
+
+const moment = require('moment');
