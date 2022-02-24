@@ -23,7 +23,7 @@ module.exports = {
                     { text: '服规', link: 'https://hello.mckfs.com/ServerRules.html' },{ text: ' 游戏实时状态', link: 'https://hello.mckfs.com/Status.html' },{ text: ' 服务器状态', link: 'https://zt.mckfs.com' },{ text: ' 已成立时间', link: 'https://page.mckfs.com/time' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
-                    ['/', '前言'],
+                    ['/', '首页'],
                     ['/ServerHistory', '服务器历史'],
                     ['/AuditDescription', '审核说明'],
                     ['/AuditProcess', '入服审核流程'],
