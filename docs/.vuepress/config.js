@@ -39,7 +39,7 @@ module.exports = {
                     ['/Email', '反馈信箱'],
                 ]
             },
-        }
+        },
         lastUpdated: '上次更新'
     },
 
