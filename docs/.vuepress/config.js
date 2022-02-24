@@ -70,7 +70,7 @@ module.exports = {
     plugins: ['@vuepress/last-updated',{
         transformer: (timestamp, lang) => {
           // 不要忘了安装 moment
-          var moment = require('moment')
+          const moment = require('moment')
           moment.locale(lang)
           return moment(timestamp).fromNow()
         }
