@@ -1,10 +1,3 @@
----
-home: true
----
-
-::: slot footer
-MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
-:::
 # <div align="center"><font color=#FD366D>欢迎加入KFS服务器</font></div>
 >该纲要更新日期 **2022.2.23** ，为 **V3.0.49** 版本。
 
@@ -30,3 +23,7 @@ MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
 
 <div align="center"><img src="/img/跨年服 (1).jpg"></div>
+
+::: slot footer
+MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
+:::
