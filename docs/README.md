@@ -31,3 +31,7 @@ footer: Copyright © 2020-2022 KFS服务器
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
 
 <div align="center"><img src="/img/跨年服 (1).jpg"></div>
+
+::: slot footer
+MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
+:::
