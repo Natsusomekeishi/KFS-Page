@@ -64,7 +64,6 @@ module.exports = {
         ['autometa', autometa_options],
         ['@vuepress/last-updated',{
             transformer: (timestamp, lang) => {
-              // 不要忘了安装 moment
               const moment = require('moment')
               moment.locale('zh-CN')
               return moment(timestamp).fromNow()
