@@ -14,7 +14,7 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/favicon.ico',
-        //lastUpdated: 'Last Updated',
+        lastUpdated: '上次更新',
         locales: {
             '/': {
                 selectText: '语言',
@@ -66,11 +66,5 @@ module.exports = {
             hostname: 'https://hello.mckfs.com',
             exclude: ["/404.html"]
         },
-    }
-}
-
-module.exports = {
-    themeConfig: {
-        lastUpdated: '上次更新'
     }
 }
