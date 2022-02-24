@@ -66,5 +66,6 @@ module.exports = {
             hostname: 'https://hello.mckfs.com',
             exclude: ["/404.html"]
         },
-    }
+    },
+    plugins: ['@vuepress/last-updated']
 }
