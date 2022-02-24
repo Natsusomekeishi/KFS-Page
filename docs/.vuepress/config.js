@@ -55,28 +55,27 @@ module.exports = {
             md.use(require('markdown-it-task-checkbox'))
         }
     },
-    plugins: ['@vuepress/active-header-links', {
-        sidebarLinkSelector: '.sidebar-link',
-        headerAnchorSelector: '.header-anchor'
-    }],
-    plugins: ['@vuepress/back-to-top'],
-    plugins: ['autometa', autometa_options],
-    plugins: {
-        'sitemap': {
-            hostname: 'https://hello.mckfs.com',
-            exclude: ["/404.html"]
-        },
-    },
-    plugins: ['@vuepress/last-updated',{
-        transformer: (timestamp, lang) => {
-          // 不要忘了安装 moment
-          const moment = require('moment')
-          moment.locale(lang)
-          return moment(timestamp).fromNow()
-        }
-      }
+    plugins: [
+        ['@vuepress/active-header-links', {
+            sidebarLinkSelector: '.sidebar-link',
+            headerAnchorSelector: '.header-anchor'
+        }],
+        ['@vuepress/back-to-top'],
+        ['autometa', autometa_options],
+        ['@vuepress/last-updated',{
+            transformer: (timestamp, lang) => {
+              // 不要忘了安装 moment
+              const moment = require('moment')
+              moment.locale('zh-CN')
+              return moment(timestamp).fromNow()
+            }
+          }
+        ]
     ]
+    // plugins: {
+    //     'sitemap': {
+    //         hostname: 'https://hello.mckfs.com',
+    //         exclude: ["/404.html"]
+    //     },
+    // }
 }
-
-
-const moment = require('moment');
