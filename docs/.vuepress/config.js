@@ -14,7 +14,6 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/favicon.ico',
-        lastUpdated: '上次更新',
         locales: {
             '/': {
                 selectText: '语言',
@@ -41,6 +40,7 @@ module.exports = {
                 ]
             },
         }
+        lastUpdated: '上次更新'
     },
 
     locales: {
