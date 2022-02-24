@@ -4,15 +4,16 @@ heroImage: /favicon.ico
 heroText: KFS服务器
 tagline: 一个和谐而稳定的MCBE服务器~
 actionText: 查看服规
-actionLink: /AuditProcess
+actionLink: /ServerRules
 features:
-- title: 简洁至上
+- title: 
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+  actionLink: /ServerRules
 - title: Vue驱动
   details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
 - title: 高性能
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: Copyright © 2020-2022 [KFS服务器](https://hello.mckfs.com)
 ---
 
 # <div align="center"><font color=#FD366D>欢迎加入KFS服务器</font></div>
@@ -40,7 +41,3 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
 
 <div align="center"><img src="/img/跨年服 (1).jpg"></div>
-
-::: slot footer
-MIT Licensed | Copyright © 2018-present [Evan You](https://github.com/yyx990803)
-:::
