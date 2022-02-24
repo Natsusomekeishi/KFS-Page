@@ -14,7 +14,7 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/favicon.ico',
-        lastUpdated: '最近更新',
+        lastUpdated: '上次更新',
         locales: {
             '/': {
                 selectText: '语言',
@@ -67,5 +67,13 @@ module.exports = {
             exclude: ["/404.html"]
         },
     },
-    plugins: ['@vuepress/last-updated']
+    plugins: ['@vuepress/last-updated',{
+        transformer: (timestamp, lang) => {
+          // 不要忘了安装 moment
+          const moment = require('moment')
+          moment.locale(lang)
+          return moment(timestamp).fromNow()
+        }
+      }
+    ]
 }
