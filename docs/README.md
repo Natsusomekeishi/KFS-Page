@@ -5,7 +5,7 @@ heroText: KFS服务器
 tagline: 一个和谐而稳定的MCBE服务器~
 actionText: 查看服规
 actionLink: /ServerRules
-footer: Copyright © 2020-2022 <a href="https://hello.mckfs.com">KFS服务器</a>
+footer: Copyright © 2020-2022 KFS服务器
 ---
 >该官网更新日期 **2022.2.24** ，为 **V3.0.50** 版本。
 
