@@ -68,3 +68,9 @@ module.exports = {
         },
     }
 }
+
+module.exports = {
+    themeConfig: {
+        lastUpdated: '上次更新'
+    }
+}
