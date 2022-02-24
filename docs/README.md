@@ -9,7 +9,7 @@ footer: Copyright © 2020-2022 KFS服务器
 ---
 >该官网更新日期 **2022.2.24** ，为 **V3.0.50** 版本。
 
-![Logo_Long.jfif](/img/Logo_Long.jfif)
+<div align="center"><img src="/img/跨年服 (1).jpg"></div>
 
 所有正在 **审核内** 及 **服务器内** 玩家必须以新版服规为准！
 
@@ -30,4 +30,4 @@ footer: Copyright © 2020-2022 KFS服务器
 * 本页面快速浏览链接：hello.mckfs.com
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
 
-<div align="center"><img src="/img/跨年服 (1).jpg"></div>
+![Logo_Long.jfif](/img/Logo_Long.jfif)
