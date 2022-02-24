@@ -5,13 +5,6 @@ heroText: KFS服务器
 tagline: 一个和谐而稳定的MCBE服务器~
 actionText: 查看服规
 actionLink: /ServerRules
-features:
-- title: 稳定
-  details: 玩家交流和谐，主机持续运行，存档永不更换
-- title: 规范
-  details: 合理的审核制度，规范的服规条例
-- title: 优质
-  details: 中立亲和外交，高素质成员，高性能主机
 footer: Copyright © 2020-2022 KFS服务器
 ---
 
