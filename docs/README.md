@@ -7,7 +7,8 @@ actionText: 查看服规
 actionLink: /ServerRules
 footer: Copyright © 2020-2022 KFS服务器
 ---
->该官网更新日期 **2022.2.24** ，为 **V3.0.50** 版本。
+>该官网更新日期 **2022.2.24** 
+>为 **V3.0.50** 版本
 
 <div align="center"><img src="/img/跨年服 (1).jpg"></div>
 
