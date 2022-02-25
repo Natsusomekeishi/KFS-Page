@@ -33,3 +33,5 @@ footer: Copyright © 2020-2022 KFS服务器
 * 苦力怕论坛宣传帖：kfs.klpbbs.com
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
+
+<div align="center"><a href="https://beian.miit.gov.cn">备案中</a></div>
