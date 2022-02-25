@@ -11,9 +11,9 @@ footer: Copyright © 2020-2022 KFS服务器
 
 >版本号: **V3.0.50** 
 
-<div align="center"><img src="/img/跨年服 (1).jpg"></div>
+* 所有正在 **审核内** 及 **服务器内** 玩家必须以新版服规为准！
 
-所有正在 **审核内** 及 **服务器内** 玩家必须以新版服规为准！
+<div align="center"><img src="/img/跨年服 (1).jpg"></div>
 
 ::: tip 帮助
 点击左上角菜单按钮，可查阅其他内容！
