@@ -62,14 +62,7 @@ module.exports = {
         }],
         ['@vuepress/back-to-top'],
         ['autometa', autometa_options],
-        ['@vuepress/last-updated',{
-            transformer: (timestamp, lang) => {
-              const moment = require('moment')
-              moment.locale('zh-CN')
-              return moment(timestamp).fromNow()
-            }
-          }
-        ]
+        ['@vuepress/last-updated']
     ]
     // plugins: {
     //     'sitemap': {
