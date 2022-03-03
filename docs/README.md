@@ -7,9 +7,9 @@ actionText: 查看服规
 actionLink: /ServerRules
 footer: Copyright © 2020-2022 KFS服务器
 ---
->该官网更新日期: **2022.3.1** 
+>该官网更新日期: **2022.3.3** 
 
->版本号: **V3.0.52** 
+>版本号: **V3.0.53** 
 
 * 所有正在 **审核内** 及 **服务器内** 玩家必须以新版服规为准！
 
@@ -28,9 +28,9 @@ footer: Copyright © 2020-2022 KFS服务器
 
 **本服务器立志打造最 和谐、长久、稳定 的服务器！**
 - - -
-* 服务器交流群：993260901
-* 本页面快速浏览链接：hello.mckfs.com
-* 苦力怕论坛宣传帖：kfs.klpbbs.com
+* 服务器交流群：[993260901](https://jq.qq.com/?_wv=1027&k=mS9tw9Gi)
+* 本页面快速浏览链接：[mckfs.com](https://mckfs.com)
+* 苦力怕论坛宣传帖：[kfs.klpbbs.com](https://kfs.klpbbs.com)
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
