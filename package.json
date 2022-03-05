@@ -7,7 +7,8 @@
   "license": "MIT",
   "devDependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.4",
-    "vuepress": "^1.9.5"
+    "vuepress": "^1.9.5",
+    "vuepress-plugin-copyright": "^1.0.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",

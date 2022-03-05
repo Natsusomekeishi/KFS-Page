@@ -79,6 +79,10 @@ module.exports = {
             // 悬浮窗样式 
             floatStyle:{ bottom: '10px', 'z-index': '999999' },
             autoplay: true
+        }],
+        ['copyright',{
+            authorName: 'KFS服务器', // 选中的文字将无法被复制
+            minLength: 30, // 如果长度超过  30 个字符
         }]
     ]
     // plugins: {
