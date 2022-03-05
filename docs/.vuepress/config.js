@@ -66,9 +66,9 @@ module.exports = {
         ['@vuepress-reco/vuepress-plugin-bgm-player',{
             audios: [
                 {
-                name: 'LOSER',
-                artist: '米津玄師',
-                url: 'https://www.ytmp3.cn/down/73654.mp3',
+                name: 'summertime',
+                artist: 'cinnamons/evening cinema',
+                url: 'https://www.ytmp3.cn/down/76217.mp3',
                 cover: 'https://www.mckfs.top/favicon.ico'
                 }
             ] ,
