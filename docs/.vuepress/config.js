@@ -76,7 +76,7 @@ module.exports = {
             autoShrink: true ,
             // 缩小时缩为哪种模式
             shrinkMode: 'float',
-            // 悬浮窗样式
+            // 悬浮窗样式 
             floatStyle:{ bottom: '10px', 'z-index': '999999' },
             autoplay: true
         }]
