@@ -68,7 +68,7 @@ module.exports = {
                 {
                 name: 'LOSER',
                 artist: '米津玄師',
-                url: 'https://api.uomg.com/api/rand.music?sort=%E7%83%AD%E6%AD%8C%E6%A6%9C&format=json',
+                url: 'https://www.ytmp3.cn/down/73654.mp3',
                 cover: 'https://www.mckfs.top/favicon.ico'
                 }
             ] ,
