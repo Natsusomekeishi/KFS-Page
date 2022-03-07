@@ -34,9 +34,9 @@ actionLink: /ServerRules
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
 - - -
-
+   
+   
 <div align="center"><a href="https://beian.miit.gov.cn">备案中</a></div>
 <div align="center">Copyright © 2020-2022 KFS服务器</div>
-   
    
    
