@@ -5,7 +5,6 @@ heroText: KFS服务器
 tagline: 一个和谐而稳定的MCBE服务器~
 actionText: 查看服规
 actionLink: /ServerRules
-footer: Copyright © 2020-2022 KFS服务器
 ---
 >该官网更新日期: **2022.3.5** 
 
@@ -34,4 +33,7 @@ footer: Copyright © 2020-2022 KFS服务器
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
+- - -
+
 <div align="center"><a href="https://beian.miit.gov.cn">备案中</a></div>
+<div align="center">Copyright © 2020-2022 KFS服务器</div>
