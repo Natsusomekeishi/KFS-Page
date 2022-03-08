@@ -23,9 +23,10 @@
 * **LiuRiTian6**
 * **Vic Tory3098**
 * **Delixiouser**
+* **Onside**
 
 ## 运营组成员
-* ①号审核员 **Keishi**
+* ①号审核员 & 服主 **Keishi**
 * 梨桃柚服 副服主 **小白**
 * 日梁雪国 副服主 **MelodicString66**
 * ②号审核员 **Blane**
