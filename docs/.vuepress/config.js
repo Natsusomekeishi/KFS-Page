@@ -62,6 +62,7 @@ module.exports = {
         }],
         ['@vuepress/back-to-top'],
         ['autometa', autometa_options],
+        ['fulltext-search'],
         ['@vuepress/last-updated'],
         ['@vuepress-reco/vuepress-plugin-bgm-player',{
             audios: [
