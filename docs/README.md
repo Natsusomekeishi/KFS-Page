@@ -35,5 +35,5 @@ actionLink: /ServerRules
 
 - - -
 
-<div align="center"><a href="https://beian.miit.gov.cn">备案中</a></div>
+<div align="center"><a href="https://beian.miit.gov.cn">鲁ICP备2022006241号-3</a></div>
 <div align="center">Copyright © 2020-2022 KFS服务器</div>
