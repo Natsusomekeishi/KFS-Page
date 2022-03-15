@@ -26,9 +26,6 @@
 **猫儿** ：
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=3012452466&amp;s=640"></div>
 
-**君王** ：
-<div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=1799646016&amp;s=640"></div>
-
 **小白** ：
 <div class="img"><img src="https://q1.qlogo.cn/g?b=qq&amp;nk=2064577137&amp;s=640"></div>
 
