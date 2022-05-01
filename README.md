@@ -1,4 +1,4 @@
-# KFS服务器官网 [点击进入](https://hello.mckfs.com/)
+# KFS服务器官网 [点击进入](https://mckfs.com/)
 
 # Github页面站 [点击进入](https://page.mckfs.com/)
 
