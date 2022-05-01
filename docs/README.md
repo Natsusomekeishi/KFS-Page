@@ -2,7 +2,7 @@
 home: true
 heroImage: /favicon.ico
 heroText: KFS服务器
-tagline: 一个和谐而稳定的MCBE服务器~
+tagline: 梨柚桃服&日梁雪国服官网
 actionText: 查看服规
 actionLink: /ServerRules
 ---
