@@ -20,7 +20,7 @@ module.exports = {
                 selectText: '语言',
                 label: '简体中文',
                 nav: [
-                    { text: '服规', link: 'https://mckfs.com/ServerRules.html' },{ text: ' 游戏实时状态', link: 'https://mckfs.com/Status.html' },{ text: ' 服务器状态', link: 'https://zt.mckfs.com' },{ text: ' 已成立时间', link: 'https://page.mckfs.com/time' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
+                    { text: '服规', link: 'https://be.mckfs.com/ServerRules.html' },{ text: ' 游戏实时状态', link: 'https://be.mckfs.com/Status.html' },{ text: ' 服务器状态', link: 'https://zt.mckfs.com' },{ text: ' 已成立时间', link: 'https://page.mckfs.com/time' },{ text: ' 加入我们', link: 'https://jq.qq.com/?_wv=1027&k=mS9tw9Gi' },
                 ],
                 sidebar: [
                     ['/', '首页'],
