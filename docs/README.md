@@ -2,7 +2,7 @@
 home: true
 heroImage: /favicon.ico
 heroText: KFS服务器
-tagline: 梨柚桃服&日梁雪国服官网
+tagline: 梨桃柚服&日梁雪国服官网
 actionText: 查看服规
 actionLink: /ServerRules
 ---
