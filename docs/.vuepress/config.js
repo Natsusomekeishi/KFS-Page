@@ -112,7 +112,7 @@ module.exports = {
                 name: '世界は恋に落ちている',
                 artist: 'かぴ',
                 url: 'https://www.ytmp3.cn/down/76224.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 }
             ] ,
             // 是否默认缩小
