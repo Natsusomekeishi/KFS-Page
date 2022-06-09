@@ -70,43 +70,43 @@ module.exports = {
                 name: 'summertime',
                 artist: 'cinnamons/evening cinema',
                 url: 'https://www.ytmp3.cn/down/76217.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: '群青',
                 artist: 'YOASOBI',
                 url: 'https://www.ytmp3.cn/down/76218.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: '花に亡霊',
                 artist: 'ヨルシカ',
                 url: 'https://www.ytmp3.cn/down/76219.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: 'カタオモイ',
                 artist: 'Aimer',
                 url: 'https://www.ytmp3.cn/down/76220.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: 'ひとり旅',
                 artist: '瀬名航/鎖那',
                 url: 'https://www.ytmp3.cn/down/76221.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: 'ツギハギスタッカート',
                 artist: 'nameless',
                 url: 'https://www.ytmp3.cn/down/76222.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: '可愛くなりたい',
                 artist: '鎖那',
                 url: 'https://www.ytmp3.cn/down/76223.mp3',
-                cover: 'https://www.mckfs.top/favicon.ico'
+                cover: 'https://be.mckfs.com/favicon.ico'
                 },
                 {
                 name: '世界は恋に落ちている',
