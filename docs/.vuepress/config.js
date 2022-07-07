@@ -121,7 +121,7 @@ module.exports = {
             shrinkMode: 'float',
             // 悬浮窗样式 
             floatStyle:{ bottom: '10px', 'z-index': '999999' },
-            autoplay: true
+            autoplay: false
         }],
         ['copyright',{
             authorName: 'KFS服务器', // 选中的文字将无法被复制
