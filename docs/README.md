@@ -29,7 +29,7 @@ actionLink: /ServerRules
 - - -
 * 服务器交流群：[993260901](https://jq.qq.com/?_wv=1027&k=mS9tw9Gi)
 * 本页面快速浏览链接：[be.mckfs.com](https://be.mckfs.com)
-* 苦力怕论坛宣传帖：[kfs.klpbbs.com](https://kfs.klpbbs.com)
+* 苦力怕论坛宣传帖：[kfs.klpbbs.com](http://kfs.klpbbs.com)
 
 ![Logo_Long.jfif](/img/Logo_Long.jfif)
 
