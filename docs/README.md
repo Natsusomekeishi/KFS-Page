@@ -27,7 +27,7 @@ actionLink: /ServerRules
 
 **本服务器立志打造最 和谐、长久、稳定 的服务器！**
 - - -
-* 服务器交流群：[993260901](https://jq.qq.com/?_wv=1027&k=mS9tw9Gi)
+* 服务器交流群：[314707427](https://jq.qq.com/?_wv=1027&k=1REEWvMZ)
 * 本页面快速浏览链接：[be.mckfs.com](https://be.mckfs.com)
 * 苦力怕论坛宣传帖：[kfs.klpbbs.com](http://kfs.klpbbs.com)
 
