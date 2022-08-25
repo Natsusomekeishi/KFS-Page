@@ -6,5 +6,5 @@
 
 # KFS服务器游戏实时状态 [点击进入](https://be.mckfs.com/Status.html)
 
-# [加入我们](https://jq.qq.com/?_wv=1027&k=mS9tw9Gi)
+# [加入我们](https://jq.qq.com/?_wv=1027&k=1REEWvMZ)
 
