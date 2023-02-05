@@ -60,17 +60,25 @@
 
 <body>
     <div class="content">
-        <h2>KFS服务器 已成立</h2>
+        <h2>KFS工作室 已成立</h2>
         <div class="timer">
             <b id="d1"></b> 天 <b id="h1"></b> 时 <b id="m1"></b> 分 <b id="s1"></b> 秒
         </div>
-		<h2>梨桃柚服 已成立</h2>
+		<h2>PUS服务器 已成立</h2>
         <div class="timer">
             <b id="d2"></b> 天 <b id="h2"></b> 时 <b id="m2"></b> 分 <b id="s2"></b> 秒
         </div>
-		<h2>日梁雪国服 已成立</h2>
+		<h2>SUS服务器 已成立</h2>
         <div class="timer">
             <b id="d3"></b> 天 <b id="h3"></b> 时 <b id="m3"></b> 分 <b id="s3"></b> 秒
+        </div>
+	<h2>云星岛服务器 已成立</h2>
+        <div class="timer">
+            <b id="d4"></b> 天 <b id="h4"></b> 时 <b id="m4"></b> 分 <b id="s4"></b> 秒
+        </div>
+	<h2>公益服务器 已成立</h2>
+        <div class="timer">
+            <b id="d5"></b> 天 <b id="h5"></b> 时 <b id="m5"></b> 分 <b id="s5"></b> 秒
         </div>
     </div>
     <script language="javascript">
@@ -139,6 +147,48 @@
           document.getElementById('s3').innerHTML = seconds;
 	    }
 	    time3();
+	    function time4() {
+	        window.setTimeout("time4()", 1000);
+	        BirthDay = new Date("1/5/2022 00:00:00");
+	        today = new Date();
+	        timeold = (today.getTime() - BirthDay.getTime());
+	        sectimeold = timeold / 1000
+	        secondsold = Math.floor(sectimeold);
+	        msPerDay = 24 * 60 * 60 * 1000
+	        e_daysold = timeold / msPerDay
+	        daysold = Math.floor(e_daysold);
+	        e_hrsold = (e_daysold - daysold) * 24;
+	        hrsold = Math.floor(e_hrsold);
+	        e_minsold = (e_hrsold - hrsold) * 60;
+	        minsold = Math.floor((e_hrsold - hrsold) * 60);
+	        seconds = Math.floor((e_minsold - minsold) * 60);
+          document.getElementById('d4').innerHTML = daysold;
+          document.getElementById('h4').innerHTML = hrsold;
+          document.getElementById('m4').innerHTML = minsold;
+          document.getElementById('s4').innerHTML = seconds;
+	    }
+	    time4();
+	    function time5() {
+	        window.setTimeout("time5()", 1000);
+	        BirthDay = new Date("24/1/2023 00:00:00");
+	        today = new Date();
+	        timeold = (today.getTime() - BirthDay.getTime());
+	        sectimeold = timeold / 1000
+	        secondsold = Math.floor(sectimeold);
+	        msPerDay = 24 * 60 * 60 * 1000
+	        e_daysold = timeold / msPerDay
+	        daysold = Math.floor(e_daysold);
+	        e_hrsold = (e_daysold - daysold) * 24;
+	        hrsold = Math.floor(e_hrsold);
+	        e_minsold = (e_hrsold - hrsold) * 60;
+	        minsold = Math.floor((e_hrsold - hrsold) * 60);
+	        seconds = Math.floor((e_minsold - minsold) * 60);
+          document.getElementById('d5').innerHTML = daysold;
+          document.getElementById('h5').innerHTML = hrsold;
+          document.getElementById('m5').innerHTML = minsold;
+          document.getElementById('s5').innerHTML = seconds;
+	    }
+	    time5();
 	</script>
 </body>
 
